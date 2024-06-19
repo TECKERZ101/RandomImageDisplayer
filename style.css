@@ -1,0 +1,6 @@
+.title {
+    display: flex;
+    min-width: 100vw;
+    min-height: fit-content;
+    justify-content: center;
+}
