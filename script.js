@@ -1,5 +1,8 @@
+const imageHTML = document.querySelector('#image')
+
 window.onload = function() {
-    getRandomImage();
+    const image = getRandomImage();
+
 }
 
 
